@@ -1,5 +1,5 @@
 '''
-Authors: Mert Arda Asar, Bengisu Özyiğit, Aylanur Ertürk
+Authors: Yusuf Cihan Korlum
 Date: 27.04.2021
 '''
 import stddraw  # the stddraw module is used as a basic graphics library
